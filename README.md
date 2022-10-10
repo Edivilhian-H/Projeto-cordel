@@ -8,7 +8,7 @@
 <p>-HTML</p>
 <p>-CSS</p>
 <br>
-<a href=https://edivilhian-h.github.io/Projeto-cordel/">PROJETO AQUI!</a>
+<a href="https://edivilhian-h.github.io/Projeto-cordel/">PROJETO AQUI!</a>
 <br>
 
 <br>
